@@ -1,0 +1,11 @@
+{
+	"name": "nyankod/fasttemplating",
+	"description": "Tools for templating HTML faster.",
+	"keywords": ["nyankod", "fasttemplating"],
+	"license": "MIT",
+	"require": {
+		"slim/slim": "2.*",
+		"neemzy/stylus": "dev-master",
+		"kylekatarnls/jade-php": "dev-master"
+	}
+}
